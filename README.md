@@ -4,3 +4,5 @@ nuclei -l是将所有url扫完同一个脚本再去扫下一个脚本，这里�
 使用方法：
 
 python get_url_batch_scan_nuclei.py -f txt存放路径
+
+将脚本放在nuclei同一目录里，或者在脚本里加个./nuclei绝对路径
